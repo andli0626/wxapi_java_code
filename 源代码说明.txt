@@ -1,0 +1,13 @@
+《微信公众平台应用开发：方法、技巧与案例》源代码说明
+
+1、所有源码均在JDK6.0 + MyEclipse6.0 + Tomcat6.0环境上测试通过。
+2、MyEclipse编码方式为GBK，习惯用UTF-8的读者在将项目导入MyEclipse后，在项目上点击右键，选择“Properties”，将弹出窗口中Resource中的“Text file encoding”选项设置为Other，并选择“UTF-8”，再依次点击右下角的“Apply”、“OK”按钮即可。
+3、项目chapter-03至chapter-11分别为第3-11章的源代码，项目baemysql是在BAE环境使用MySQL的源代码。
+4、在阅读本书内容及所有源代码时，有任何疑问都可以通过下面的方式向作者反馈。
+5、请尊重作者的劳动成果，请勿将本书内容及所有源代码以其他任何形式传播！
+
+===================================
+作者：柳峰
+博客：http://blog.csdn.net/lyq8479
+论坛：http://www.yqlbc.com/
+QQ群：308459575
